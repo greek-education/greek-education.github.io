@@ -213,7 +213,7 @@
         padding-top: 50px;
     }
 
-    .years_text {
+    .about_sub_header {
         font-size: 42px;
     }
 
@@ -348,7 +348,7 @@
         width: 78%;
     }
 
-    .banner_section {
+    .home_page_section {
         background-size: cover;
     }
 
@@ -357,11 +357,11 @@
         padding-top: 0px;
     }
 
-    .years_text {
+    .about_sub_header {
         font-size: 30px;
     }
 
-    .read_more_bt a {
+    .contact_us_bt a {
         width: 40%;
     }
 
@@ -547,7 +547,7 @@
         padding: 10px 0px;
     }
 
-    .banner_section {
+    .home_page_section {
         background-size: cover;
         background-image: url(../images/greek-flag-3.jpg);
         padding-top: 50px;
@@ -790,7 +790,7 @@
         padding: 10px 0px;
     }
 
-    .banner_section {
+    .home_page_section {
         background-size: cover;
         background-image: url(../images/greek-flag-3.jpg);
         padding-top: 50px;
@@ -805,11 +805,11 @@
         padding-top: 0px;
     }
 
-    .years_text {
+    .about_sub_header {
         font-size: 28px;
     }
 
-    .read_more_bt a {
+    .contact_us_bt a {
         width: 120px;
     }
 
@@ -851,7 +851,7 @@
         font-size: 19px;
     }
 
-    .client_taital {
+    .interesting_facts_header {
         font-size: 26px;
     }
 
