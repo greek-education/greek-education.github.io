@@ -205,11 +205,11 @@
         width: 61%;
     }
 
-    .appointment_bt a {
+    .learn_more_bt a {
         width: 50%;
     }
 
-    .achive_text {
+    .home_page_header {
         padding-top: 50px;
     }
 
@@ -352,7 +352,7 @@
         background-size: cover;
     }
 
-    .achive_text {
+    .home_page_header {
         font-size: 38px;
         padding-top: 0px;
     }
@@ -365,7 +365,7 @@
         width: 40%;
     }
 
-    .appointment_bt a {
+    .learn_more_bt a {
         width: 210px;
     }
 
@@ -553,12 +553,12 @@
         padding-top: 50px;
     }
 
-    .achive_text {
+    .home_page_header {
         font-size: 38px;
         padding-top: 0px;
     }
 
-    .appointment_bt a {
+    .learn_more_bt a {
         width: 210px;
     }
 
@@ -796,11 +796,11 @@
         padding-top: 50px;
     }
 
-    .appointment_bt a {
+    .learn_more_bt a {
         width: 210px;
     }
 
-    .achive_text {
+    .home_page_header {
         font-size: 38px;
         padding-top: 0px;
     }
